@@ -1,6 +1,6 @@
 {
   "name": "mdx-deck",
-  "version": "4.1.1",
+  "version": "5.0.0-alpha",
   "description": "MDX-based presentation decks",
   "bin": {
     "mdx-deck": "./cli.js"
@@ -21,13 +21,13 @@
     "chalk": "^3.0.0",
     "execa": "^4.0.0",
     "fs-extra": "^8.1.0",
-    "gatsby": "^2.13.24",
+    "gatsby": "^3.12.0",
     "gatsby-plugin-compile-es6-packages": "^2.0.0",
     "gatsby-source-filesystem": "^2.1.48",
     "initit": "^1.0.0-2",
     "meow": "^6.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^18.0.0-alpha-bd255700d-20210816",
+    "react-dom": "^18.0.0-alpha-bd255700d-20210816"
   },
   "gitHead": "13d00b47780424cc3b52d38ad6f19e99d007c06a"
 }
